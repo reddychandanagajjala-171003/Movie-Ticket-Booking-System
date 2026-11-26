@@ -1,0 +1,20 @@
+[
+  {
+    "customerName": "gajjala reddy chandana",
+    "customerEmail": "chandana@gmail.com",
+    "customerPhone": "9281195677",
+    "movie": "The Lion King",
+    "showtime": "10:00 AM",
+    "seats": [
+      "B1",
+      "B2",
+      "B3",
+      "B4"
+    ],
+    "ticketCount": 4,
+    "pricePerTicket": 200,
+    "totalAmount": 800,
+    "bookingId": "MB598998",
+    "bookingDate": "26/11/2026, 6:43:18 am"
+  }
+]
